@@ -1,0 +1,3 @@
+@APIContagem_HostAddress = http://localhost:5051
+
+GET {{APIContagem_HostAddress}}/contador
